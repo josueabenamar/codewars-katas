@@ -1,1 +1,1 @@
-# nodejs-katas
+# codewars-katas
